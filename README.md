@@ -1,4 +1,3 @@
-[diagnostic.html](https://github.com/user-attachments/files/29069800/diagnostic.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
